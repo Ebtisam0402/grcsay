@@ -1,6 +1,8 @@
 # grcsay
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.  partner A is Ebtisam and Partner B is Lilian
 
+SDEV301 
+
 ## Setting up git merging strategy
 1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!!
     ```
